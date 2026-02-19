@@ -5,7 +5,7 @@
     "summary": "Change reports font size from the document layout configurator",
     "version": "17.0.2.0.0",
     "category": "repoting-engine",
-    "website": "https://github.com/sygel-technology/sy-server-backend",
+    "website": "https://github.com/sygel-technology/sy-reporting-engine",
     "author": "Sygel, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "application": False,
