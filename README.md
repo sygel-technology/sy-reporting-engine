@@ -16,6 +16,13 @@ Odoo Alternative Reporting Engine
 <!-- prettier-ignore-start -->
 
 [//]: # (addons)
+
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[report_css_injection](report_css_injection/) | 18.0.1.0.0 |  | Change reports font size and other css from the document layout configurator
+
 [//]: # (end addons)
 
 <!-- prettier-ignore-end -->
